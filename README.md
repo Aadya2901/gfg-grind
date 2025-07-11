@@ -12,7 +12,7 @@ This repo helps me sharpen problem-solving skills, reinforce core DSA concepts, 
 ## 📌 About
 
 - 👩🏻‍💻 Language: **Java**
-- 🌐 Platform: [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Aadya2901/practice/)
+- 🌐 Platform: [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aadyapatel2901/practice/)
 - 🧠 Topics: Arrays, Strings, LinkedLists, Trees, Stacks, Queues, Recursion, Backtracking, DP & more
 - 📁 Structure: Organized topic-wise
 - 🗓️ Updated: Frequently
@@ -84,9 +84,10 @@ Navigate to the solution file and run it via main() or use JUnit if written as a
 Hi! I’m Aadya Patel, a 4th semester CSE student on a mission to build strong DSA foundations and prepare for coding interviews.
 I solve problems on both LeetCode and GeeksforGeeks, mainly in Java and C++.
 
-🌐 GitHub
+🌐 Let’s Connect
+💻 GitHub
 
-💻 LeetCode
+🧠 LeetCode
 
 🌿 GFG
 
